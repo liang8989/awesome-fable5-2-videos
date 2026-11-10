@@ -1,16 +1,16 @@
 # Awesome Fable 5.2 Videos
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Videos](https://img.shields.io/badge/videos-76-121313)](https://fable5.app/fable-5-2/works/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos) [![Prompts](https://img.shields.io/badge/published_prompts-8-c96442)](#prompts-to-copy) [![License: MIT](https://img.shields.io/badge/license-MIT-555555)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Videos](https://img.shields.io/badge/videos-79-121313)](https://fable5.app/fable-5-2/works/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos) [![Prompts](https://img.shields.io/badge/published_prompts-8-c96442)](#prompts-to-copy) [![License: MIT](https://img.shields.io/badge/license-MIT-555555)](LICENSE)
 
 <a href="https://fable5.app/fable-5-2/works/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-fable5-2-videos"><img src="assets/mosaic.jpg" alt="A wall of frames from videos made with Claude Fable 5.2" width="100%"></a>
 
 What people are making with **Claude Fable 5.2**, gathered from X since the model launched on November 9, 2026: motion pieces, 3D scenes, games, explainers and model comparisons. Each entry names its maker and points to the post it came from. When the maker shared the prompt, it is here too, word for word.
 
-**[▶ Watch all 76 on The Frontier Brief](https://fable5.app/fable-5-2/works/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)**, newest first, one page per video.
+**[▶ Watch all 79 on The Frontier Brief](https://fable5.app/fable-5-2/works/?utm_source=github&utm_medium=readme&utm_campaign=awesome-fable5-2-videos)**, newest first, one page per video.
 
 ## At a glance
 
-- **76 videos** in 6 categories, newest first
+- **79 videos** in 6 categories, newest first
 - **8 prompts** published by their makers ([read them](#prompts-to-copy))
 - Previews play on this page; every card opens the full video
 - Every entry credits its maker and links to the source post on X
@@ -23,7 +23,7 @@ What people are making with **Claude Fable 5.2**, gathered from X since the mode
 - [Motion graphics](#motion-graphics) (26)
 - [Explainers](#explainers) (5)
 - [3D scenes](#3d-scenes) (16)
-- [Games](#games) (8)
+- [Games](#games) (11)
 - [Launch films](#launch-films) (8)
 - [Model comparisons](#model-comparisons) (13)
 - [Prompts to copy](#prompts-to-copy)
@@ -68,6 +68,7 @@ What people are making with **Claude Fable 5.2**, gathered from X since the mode
 
 <table>
 <tr><td width="33%" valign="top"><a href="https://fable5.app/fable-5-2/works/jarrodwatts-777937/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-fable5-2-videos"><img src="https://media.fable5.app/fable-5-2/jarrodwatts-777937/preview.2c50668510.webp" alt="A first-person shooter on a grassy island of floating ruins, by @jarrodwatts" width="100%"></a><br><sub><b>A first-person shooter on a grassy island of floating ruins</b><br><a href="https://x.com/jarrodwatts">@jarrodwatts</a> · 0:14</sub></td><td width="33%" valign="top"><a href="https://fable5.app/fable-5-2/works/alexstlouis10-907802/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-fable5-2-videos"><img src="https://media.fable5.app/fable-5-2/alexstlouis10-907802/preview.0e95da689e.webp" alt="Blueline: a 3D ice hockey browser game with penalties and power plays, by @AlexStLouis10" width="100%"></a><br><sub><b>Blueline: a 3D ice hockey browser game with penalties and power plays</b><br><a href="https://x.com/AlexStLouis10">@AlexStLouis10</a> · 0:35</sub></td><td width="33%" valign="top"><a href="https://fable5.app/fable-5-2/works/alightinastorm-440210/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-fable5-2-videos"><img src="https://media.fable5.app/fable-5-2/alightinastorm-440210/preview.12b29f6405.webp" alt="A browser first-person shooter with an armory and a desert town map, by @alightinastorm" width="100%"></a><br><sub><b>A browser first-person shooter with an armory and a desert town map</b><br><a href="https://x.com/alightinastorm">@alightinastorm</a> · 1:11</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://fable5.app/fable-5-2/works/alightinastorm-945922/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-fable5-2-videos"><img src="https://media.fable5.app/fable-5-2/alightinastorm-945922/preview.954de8e9b1.webp" alt="Vibes vs Luddites: a 3D basketball game in a packed arena, by @alightinastorm" width="100%"></a><br><sub><b>Vibes vs Luddites: a 3D basketball game in a packed arena</b><br><a href="https://x.com/alightinastorm">@alightinastorm</a> · 0:41</sub></td><td width="33%" valign="top"><a href="https://fable5.app/fable-5-2/works/mrdejie-771323/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-fable5-2-videos"><img src="https://media.fable5.app/fable-5-2/mrdejie-771323/preview.b7c835063b.webp" alt="Reina Scares Hiro: a voiced choose-your-path comedy game, by @mrdejie" width="100%"></a><br><sub><b>Reina Scares Hiro: a voiced choose-your-path comedy game</b><br><a href="https://x.com/mrdejie">@mrdejie</a> · 1:14</sub></td><td width="33%" valign="top"><a href="https://fable5.app/fable-5-2/works/coleywoleyyy-607260/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-fable5-2-videos"><img src="https://media.fable5.app/fable-5-2/coleywoleyyy-607260/preview.e09a639421.webp" alt="Stick figures fight across website billboards above a night city, by @coleywoleyyy" width="100%"></a><br><sub><b>Stick figures fight across website billboards above a night city</b><br><a href="https://x.com/coleywoleyyy">@coleywoleyyy</a> · 0:26</sub></td></tr>
 <tr><td width="33%" valign="top"><a href="https://fable5.app/fable-5-2/works/ericmaskfr-481026/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-fable5-2-videos"><img src="https://media.fable5.app/fable-5-2/ericmaskfr-481026/preview.e61f86e6a2.webp" alt="An open-world Miami-style crime game with car paint shops and timed races, by @ericmaskfr" width="100%"></a><br><sub><b>An open-world Miami-style crime game with car paint shops and timed races</b><br><a href="https://x.com/ericmaskfr">@ericmaskfr</a> · 2:15 · prompt</sub></td><td width="33%" valign="top"><a href="https://fable5.app/fable-5-2/works/faridanever-505730/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-fable5-2-videos"><img src="https://media.fable5.app/fable-5-2/faridanever-505730/preview.a9e094062b.webp" alt="A sumi-e ink action game with a wandering swordsman and a white cat, by @FaridaNever" width="100%"></a><br><sub><b>A sumi-e ink action game with a wandering swordsman and a white cat</b><br><a href="https://x.com/FaridaNever">@FaridaNever</a> · 2:00</sub></td><td width="33%" valign="top"><a href="https://fable5.app/fable-5-2/works/geneohms-685102/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-fable5-2-videos"><img src="https://media.fable5.app/fable-5-2/geneohms-685102/preview.a2c8796a36.webp" alt="Pocket Chess, a phone chess game built from one request, by @geneohms" width="100%"></a><br><sub><b>Pocket Chess, a phone chess game built from one request</b><br><a href="https://x.com/geneohms">@geneohms</a> · 0:55</sub></td></tr>
 <tr><td width="33%" valign="top"><a href="https://fable5.app/fable-5-2/works/mihawkxxxxx-699749/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-fable5-2-videos"><img src="https://media.fable5.app/fable-5-2/mihawkxxxxx-699749/preview.6afe3b5caa.webp" alt="Trailer for The Clockmaker's Mansion, a Roblox horror game, by @mihawkxxxxx" width="100%"></a><br><sub><b>Trailer for The Clockmaker's Mansion, a Roblox horror game</b><br><a href="https://x.com/mihawkxxxxx">@mihawkxxxxx</a> · 0:55</sub></td><td width="33%" valign="top"><a href="https://fable5.app/fable-5-2/works/itssotsot-491720/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-fable5-2-videos"><img src="https://media.fable5.app/fable-5-2/itssotsot-491720/preview.952695f094.webp" alt="A toy-room third-person game with a small explorer collecting items, by @itssotsot" width="100%"></a><br><sub><b>A toy-room third-person game with a small explorer collecting items</b><br><a href="https://x.com/itssotsot">@itssotsot</a> · 1:35 · prompt</sub></td></tr>
 </table>
@@ -173,7 +174,7 @@ Made something with Fable 5.2, or found a video that belongs here? [Open an issu
 
 ## Updates
 
-- **2026-11-10**: 76 added, 76 in total
+- **2026-11-10**: 79 added, 79 in total
 
 ## Credits and removal
 
